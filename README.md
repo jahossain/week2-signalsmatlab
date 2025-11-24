@@ -13,3 +13,6 @@ This MATLAB script generates six fundamental continuous-time signals used in sig
 5. Signum Function (sgn(t)) – A signal that outputs −1 for negative t, 0 at t = 0, and +1 for positive t. It is used to describe polarity and direction.
 
 6. Sinc Function (sinc(t)) – A smooth oscillatory waveform defined as sin(πt)/(πt). It is widely used in filtering, sampling theory, and communication systems.
+
+![image](
+![image](
