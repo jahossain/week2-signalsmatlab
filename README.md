@@ -14,5 +14,5 @@ This MATLAB script generates six fundamental continuous-time signals used in sig
 
 6. Sinc Function (sinc(t)) – A smooth oscillatory waveform defined as sin(πt)/(πt). It is widely used in filtering, sampling theory, and communication systems.
 
-![image](
+![image](https://github.com/jahossain/week2-signalsmatlab/blob/main/Screenshot%202025-11-24%20203910.png)
 ![image](
